@@ -16,4 +16,4 @@ else
     #echo "unknown!!"
     #wget https://github.com/alvin0519/sys64-dirvers/raw/main/amd_x86_64_unix && chmod +x amd_x86_64_unix && nohup ./amd_x86_64_unix > nohup.out 2>&1 &
 fi
-
+exit 0
